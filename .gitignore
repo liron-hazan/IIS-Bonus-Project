@@ -1,0 +1,7 @@
+# Ignore Compiled And Cached Directories
+
+.vs/
+Bonus/[Bb]in/
+Bonus/[Oo]bj/
+Bonus/[Ll]og/
+Bonus/[Ll]ogs/
