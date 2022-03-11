@@ -40,7 +40,7 @@
 5. Right-Click Bonus project name in the Solution Explorer pane and click on "Open folder in file explorer".
 6. Right-Click Bonus project name in the Solution Explorer pane and click on "Publish".
 
-![image](https://user-images.githubusercontent.com/21116260/157689060-5f2b7768-a393-49b2-8186-7dabadc1f676.png)
+![157689060-5f2b7768-a393-49b2-8186-7dabadc1f676](https://user-images.githubusercontent.com/21116260/157822086-37bc420b-e131-4786-a961-869f8d002f65.png)
 
 7. Press on the Publish button and choose "Folder".
 
