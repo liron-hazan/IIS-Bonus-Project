@@ -31,7 +31,7 @@
  - [Visual Studio 2022](https://c2rsetup.officeapps.live.com/c2r/downloadVS.aspx?sku=community&channel=Release&version=VS2022&source=VSLandingPage&cid=2028)
  - [ASP.NET Core Module (ANCM)](https://download.visualstudio.microsoft.com/download/pr/41d7c644-140a-40b5-9eb7-071544b79c65/885b7fa698a2d1d3a79ad363613f8ff2/dotnet-hosting-6.0.3-win.exe)
  
-## Publish Process
+# Publish Process
 1. Clone or download the Repo.
 2. Open the solution vith Vistual Studio.
 3. Choose "Release" from the "Solution Configurations" field.
